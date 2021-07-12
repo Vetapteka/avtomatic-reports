@@ -1,7 +1,6 @@
 # piikt
 automatic report for labs
+> Creates a new file report.txt. 
+> Copies all lab's files from dir to report.txt. 
+> Adds file name
 
-Автоматическая генерация отчета для лаб.
-> создает файл report.txt
-> копирует содержимое всех файлов из папки с лабой (нет проверки на расширение файла) в отчет, в начале пишет название файла
-> ваш отчет почти готов
